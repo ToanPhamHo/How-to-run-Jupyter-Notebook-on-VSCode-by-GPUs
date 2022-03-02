@@ -1,4 +1,4 @@
-# This document would show you how to run Tensorflow on a random IDE by GPUs.
+# Run Tensorflow on A Random IDE by GPUs.
 
 # 1. Broad Information
 - Used Laptop: MS66 Stealth (2020) - i7-10750H CPU, RTX 2060, 16GB RAM
